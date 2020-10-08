@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>markdown on 学习笔记</title><link>https://AxtengZwm.github.com/categories/markdown/</link><description>Recent content in markdown on 学习笔记</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Thu, 24 Sep 2020 09:20:11 +0800</lastBuildDate><atom:link href="https://AxtengZwm.github.com/categories/markdown/index.xml" rel="self" type="application/rss+xml"/><item><title>markdown学习</title><link>https://AxtengZwm.github.com/posts/getting-to-know-hadoop/</link><pubDate>Thu, 24 Sep 2020 09:20:11 +0800</pubDate><guid>https://AxtengZwm.github.com/posts/getting-to-know-hadoop/</guid><description>一级标题 （文本前加 #）
+二级标题 （文本前加 ##）
+六级标题 （文本前加 ######）
+分割线（***）
+斜体文本 （* 文本 *） **加粗文本** （ ** 文本 **） ***斜体加粗*** （ *** 文本 ***）
+插入图片 从剪贴板上传图像
+Windows / Unix：Ctrl + Alt + U OSX：Cmd + Opt + U 从资源管理器上传图像
+Windows / Unix：Ctrl + Alt + E OSX：Cmd + Opt + E 从输入框上传图像
+Windows / Unix：Ctrl + Alt + O OSX：Cmd + Opt + O 删除线 （~~ 文本 ~~） 下划线（ &amp;lt; u&amp;gt; 文本 &amp;lt; /u&amp;gt; ）</description></item></channel></rss>
