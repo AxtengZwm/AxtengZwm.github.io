@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>学习笔记</title><link>https://AxtengZwm.github.com/</link><description>Recent content on 学习笔记</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Thu, 08 Oct 2020 09:20:11 +0800</lastBuildDate><atom:link href="https://AxtengZwm.github.com/index.xml" rel="self" type="application/rss+xml"/><item><title>飞机结冰</title><link>https://AxtengZwm.github.com/posts/airplane-icing/</link><pubDate>Thu, 08 Oct 2020 09:20:11 +0800</pubDate><guid>https://AxtengZwm.github.com/posts/airplane-icing/</guid><description>绪论 飞机在低于冰点的温度下飞行时，如果穿越含有过冷水滴（温度低于冰点但仍保持液态的水）的云层，水滴碰在飞机表面上，就会在碰撞区域及其附近发生积冰。飞机积冰不但增加了部件重量，而且会改变绕流流场、破坏气动性能、导致部件载荷分布发生变化，使操纵性和稳定性受到影响，给飞行安全带来危害，轻者，会使安全飞行范围减小，重者，则会导致机毁人亡的严重事故。
+积冰类型 按积冰的物理过程分类 霜冰：具有象砂纸一样粗糙而不透明的表面。组织比 较松脆，容易脱落且表面比较粗糙
+明冰：外形不规则，沿表面流向的分布较广，冰中没有气泡，冰体透明并且组织致密，与表面的连接力大
+混合冰：明冰与霜冰的混合体，表面粗糙不平且不易脱落
+积霜：凝华而成，呈白色，晶体状外形，对气动外形改变不大，但会破坏绕机翼的光滑流动，导致上表面气流提前分离
+干积冰：飞机在含有冰晶体的云层中飞行时，冰晶沉积在部件表面上所形成的积冰
+实践表明，飞行中积霜和干积冰是极少发生的，大部分的积冰是由过冷水滴 冻结而导致的霜冰、明冰以及混合冰。因此，在研究飞机积冰问题时，一般是针 对这三种积冰类型进行讨论。
+按冰的几何形状分类 粗糙度冰：粗糙度冰发生于积冰过程的初始阶段，冰的显著形状还没有形成。
+角状冰：形成于明冰的积冰条件，外形通常包括上、下角主体部分，也包括角状冰下游的羽状区，角状冰对气动特性的影响比流向冰大，但比展向冰脊小。
+流向冰：呈流线型，对气动特性的影响最小，在较冷的环境温度下，当水滴冻结在撞击表面时，最初的冰形状沿着物面外形产生，在较长的积冰时间、或当积冰条件恰当的时候，就可能形成流向冰。
+展向冰脊：过冷水滴与物面撞击之后未冻结，而是沿着物面溢流，在撞击区之后形成突起的山脊状的冰，由于是溢流水冻结而形成，冰脊通常具有明冰的特质。
+积冰强度</description></item><item><title>markdown 学习</title><link>https://AxtengZwm.github.com/posts/learning-markdown/</link><pubDate>Thu, 24 Sep 2020 09:20:11 +0800</pubDate><guid>https://AxtengZwm.github.com/posts/learning-markdown/</guid><description>一级标题 （文本前加 #）
+二级标题 （文本前加 ##）
+六级标题 （文本前加 ######）
+分割线（***）
+斜体文本 （* 文本 *） **加粗文本** （ ** 文本 **） ***斜体加粗*** （ *** 文本 ***）
+插入图片 从剪贴板上传图像
+Windows / Unix：Ctrl + Alt + U OSX：Cmd + Opt + U 从资源管理器上传图像
+Windows / Unix：Ctrl + Alt + E OSX：Cmd + Opt + E 从输入框上传图像
+Windows / Unix：Ctrl + Alt + O OSX：Cmd + Opt + O 删除线 （~~ 文本 ~~） 下划线（ &amp;lt; u&amp;gt; 文本 &amp;lt; /u&amp;gt; ）</description></item></channel></rss>
